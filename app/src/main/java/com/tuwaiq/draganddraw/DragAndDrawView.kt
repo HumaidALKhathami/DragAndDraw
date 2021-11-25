@@ -83,5 +83,5 @@ class DragAndDrawView(context:Context , attributeSet: AttributeSet) : View(conte
         }
     }
 
-    
+
 }
